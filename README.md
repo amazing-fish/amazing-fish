@@ -1,7 +1,5 @@
 # amazing-fish
- ---
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=你的账号用户名&include_all_commits=true&count_private-true&custom_title=你的账号用户名'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend&layout=compact">
+---
 
 # Hi there 👋
  
@@ -23,3 +21,6 @@
 - 🌱当然是找到GitHub上的经典项目做一做
 - 🌱准备考研啦……还有点点远
 - 🌱跟着导师看看能不能帮着干点活
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazing-fish&show_icons=true&theme=swift)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazing-fish&layout=compact">
