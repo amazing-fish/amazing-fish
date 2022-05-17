@@ -2,7 +2,7 @@
 ---
 
 # Hi there 👋
- 
+
 ### I'm Ziao Huang
 - 🌱 西安电子科技大学的本科无敌鶸
 - 🌱 人工智能专业初学者
@@ -10,7 +10,12 @@
 - 🌱 Java学习ed 一丢丢然后溜了 
 - 🌱 C……同上
 
-### What am I doing
+### How to Contact Me
+
+- 学生邮箱：zahuang@stu.xidian.edu.cn
+- 个人邮箱：huangziao99@126.com
+
+### What am I Doing
 - 🌱《机器学习》——周志华（好难，已经看不懂了）
 - 🌱pytorch项目实战——其实就是复现一下，自己写代码的能力太差了
 - 🌱**玩**
