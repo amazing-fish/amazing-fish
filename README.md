@@ -24,5 +24,5 @@
 - 🌱猫猫协作系统，vibe！
 - 🌱学习训推、agent
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazing-fish&show_icons=true&theme=swift)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazing-fish&layout=compact">
+![Anurag's GitHub stats](https://github-readme-stats-jiaolings-projects.vercel.app/api?username=amazing-fish&show_icons=true&theme=swift)
+<img align="right" src="https://github-readme-stats-jiaolings-projects.vercel.app/api/top-langs/?username=amazing-fish&layout=compact">
