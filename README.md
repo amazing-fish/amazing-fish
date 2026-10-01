@@ -61,15 +61,25 @@
 [CodeX-YI](https://github.com/amazing-fish/CodeX-YI)：三钱起卦、六十四卦方图，附王弼本经传原文，自动标出该读哪一爻。
 <sub>习性：卦象数据不对宁可不显示；[点开就能用](https://amazing-fish.github.io/CodeX-YI/)，fork 自 [jiao-ling/CodeX-YI](https://github.com/jiao-ling/CodeX-YI)。</sub>
 
-<a href="https://github.com/amazing-fish/dsh-plugins">
+<a href="https://github.com/amazing-fish/dsh-sm-context-piano">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/project-dsh-dark.svg">
-    <img alt="04 DSH 插件适配 dsh-plugins" src="assets/project-dsh-light.svg" width="100%">
+    <img alt="04 琴键导航 dsh-sm-context-piano" src="assets/project-dsh-light.svg" width="100%">
   </picture>
 </a>
 
-[dsh-plugins](https://github.com/amazing-fish/dsh-plugins)：给 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 做的小插件，有能拖动的四格便签，还能让 `/web` 模糊匹配到 `coding-web-search`。
-<sub>习性：DSH 一升级就跟着适配；也把 [琴键导航](https://github.com/hjj345/dsh-sm-context-piano) [fork 过来](https://github.com/amazing-fish/dsh-sm-context-piano)适配到了 0.1.7，其中轨道自适应那处改动已[合入上游](https://github.com/hjj345/dsh-sm-context-piano/pull/3)。</sub>
+[琴键导航](https://github.com/amazing-fish/dsh-sm-context-piano)：给 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 长对话加一排 Codex 风格的小琴键，悬停预览，点一下就跳到那一段。
+<sub>习性：DSH 升级到 0.1.7 时由我跟着做了适配；fork 自 [hjj345/dsh-sm-context-piano](https://github.com/hjj345/dsh-sm-context-piano)，轨道自适应已[合入上游](https://github.com/hjj345/dsh-sm-context-piano/pull/3)。顺手还有个 [dsh-plugins](https://github.com/amazing-fish/dsh-plugins) 小插件仓。</sub>
+
+<a href="https://github.com/amazing-fish/mu-5x-fibonacci-trading">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-mu-dark.svg">
+    <img alt="05 MU 信号台 mu-5x-fibonacci-trading" src="assets/project-mu-light.svg" width="100%">
+  </picture>
+</a>
+
+[MU 信号台](https://github.com/amazing-fish/mu-5x-fibonacci-trading)：把盯 MU 的交易想法变成可重复的回测、能解释的信号和邮件提醒，再记下自己每一笔的复盘。
+<sub>习性：行情缺了、坏了、过期了，宁可不出信号；下单由人来，不是自动交易，也不构成投资建议。</sub>
 
 ## 🐱 猫窝值班表
 
